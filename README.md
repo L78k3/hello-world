@@ -1,2 +1,2 @@
 # hello-world
-Student who occasiaonlly enjoys programming
+Student who occasionally enjoys programming
